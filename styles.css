@@ -1,0 +1,134 @@
+body {
+    margin:0;
+    text-align: center;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 2em;
+    color: #40514E;
+}
+h1 {
+    color: #66BFBF;    
+    font-size: 5.625rem;
+    margin-top: 50px auto 0 auto;
+    margin-bottom: 0; 
+    font-family: 'Sacramento', cursive;
+    line-height: 1;
+ }
+
+ h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    color: #66BFBF;
+    padding-bottom: 10px;
+ }
+
+ h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+ }
+
+.top-container {
+    background-color: #C3F8FF;
+    position: relative;
+    padding-top: 100px;
+
+}
+
+hr {
+    border: dotted #EAF6F6 6PX;
+    border-bottom: none;
+    width: 4%;
+}
+
+a{
+   color: #11999E;
+   font:'Merriweather Sans', sans-serif ;
+   margin: 10px 20px;
+   text-decoration: none;
+}
+
+a:hover {
+    color: #66BFBF;
+}
+
+.copyright {
+font-size: small;
+color: #66BFBF;
+padding: 20px 0;
+}
+
+.intro {
+    width: 50%;
+    margin: auto;
+    line-height: 2;
+}
+
+.skill-row {
+   width: 50%;
+   margin: 100px auto 100px auto; 
+   text-align: left;
+   font-size: large;
+   line-height: 2;
+}
+
+.bottom-container{
+   background-color: #C3F8FF;
+   text-align: center;
+   font-size: large;
+   margin-top: 50px;
+   padding: 50px 0 20px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left:300px;
+    bottom: 300px;
+}
+
+.top-cloud {
+position: absolute;
+right: 300px;
+top: 50px;
+}
+
+.img_gd {
+width: 25%;
+float: left;
+margin-right: 30px;
+}
+
+.img_wd{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.profile{
+    width: 50%;
+   margin: 100px auto 100px auto; 
+   text-align: center;
+   font-size: large;
+   line-height: 2;
+}
+.contact-me{
+    font-size: large;
+}
+.contact-message{
+    width: 50%;
+    margin: 40px auto 60px;
+    line-height: 2;
+}
+.btn {
+    border-radius: 8px;
+    font-family: 'Merriweather Sans', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    background: #22daf2;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+        text-decoration: none;
+  }
